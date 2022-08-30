@@ -2,9 +2,6 @@
 module.exports = {
   content: ["./*{html,js}"],
   theme: {
-    fontSize: {
-      'base': '18px'
-    },
     extend: {
       fontFamily: {
         outfit: ['Outfit', 'sans-serif'],
