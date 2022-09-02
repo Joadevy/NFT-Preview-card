@@ -5,6 +5,7 @@
  
  ## Author
 
+- Frontend Mentor Profile - [@joaquin-arlettaz](https://www.frontendmentor.io/profile/Joadevy/)
 - Twitter - [@JoaquinArlettaz](https://twitter.com/JoaquinArlettaz)
 - LinkedIn - [@joaquin-arlettaz](https://www.linkedin.com/in/joaqu%C3%ADn-arlettaz/)
 
