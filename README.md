@@ -1,7 +1,9 @@
 ## Welcome to my small practice! 👋
 
+» Live Site URL: https://joadevy.github.io/NFT-Preview-card/
+
 ## Overview
-=> It's a solution for a [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/) that I did to practice my handling of tailwind CSS because probably I'll use this CSS framework in my upcoming adventures in React.
+» It's a solution for a [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/) that I did to practice my handling of tailwind CSS because probably I'll use this CSS framework in my upcoming adventures in React.
  
  ## Author
 
